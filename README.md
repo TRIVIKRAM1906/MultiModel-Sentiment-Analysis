@@ -1,8 +1,5 @@
 # MultiModel-Sentiment-Analysis
-Absolutely — here is your content **perfectly formatted in clean GitHub-ready Markdown!**
-Just copy–paste this into your `README.md` 🚀🔥
 
----
 
 ```markdown
 # 🍽️ Sentiment Analysis on Amazon Fine Food Reviews using VADER & RoBERTa
