@@ -1,7 +1,4 @@
 # MultiModel-Sentiment-Analysis
-
-
-```markdown
 # 🍽️ Sentiment Analysis on Amazon Fine Food Reviews using VADER & RoBERTa
 
 This project explores **Natural Language Processing (NLP)** techniques to analyze sentiment from the popular **Amazon Fine Food Reviews** dataset.  
